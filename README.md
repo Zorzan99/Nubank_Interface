@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Projeto da parte visual apenas do app da Nubank.
+Utilizo o GitHub para salvar meus projetos e para os recrutadores conseguirem ver meu potencial =)
+Estou em busca de uma vaga de flutter e considero meu conhecimento sendo Trainee ou Junior.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
